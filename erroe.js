@@ -19,17 +19,27 @@
       
 
 
-      // This code will do this thing (...) and that thing (...)
-// ...and who knows what else...
+// //       This code will do this thing (...) and that thing (...)
+// // ...and who knows what else...
 
 
-// Day 4
+// // Day 4
 
-const name = "Arian";
+// const name = "Arian";
 
-if (name.length > 0) {
-  console.log("condition is True");
+// if (name.length > 0) {
+//   console.log("condition is True");
   
+// }else{
+//   console.log("Condition is false");
+// }
+
+
+const a = 2;
+const b = "2";
+
+if (a == b) {
+  console.log("condition is true"); 
 }else{
-  console.log("Condition is false");
+  console.log("condition is false");
 }
